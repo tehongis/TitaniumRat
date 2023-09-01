@@ -1,0 +1,11 @@
+/home/thongisto/Srcs/umber/target/debug/deps/widestring-239dd268a2c08e58.rmeta: /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/lib.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/platform/mod.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/platform/other.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ucstr.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ucstring.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ustr.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ustring.rs
+
+/home/thongisto/Srcs/umber/target/debug/deps/widestring-239dd268a2c08e58.d: /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/lib.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/platform/mod.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/platform/other.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ucstr.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ucstring.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ustr.rs /home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ustring.rs
+
+/home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/lib.rs:
+/home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/platform/mod.rs:
+/home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/platform/other.rs:
+/home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ucstr.rs:
+/home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ucstring.rs:
+/home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ustr.rs:
+/home/thongisto/.cargo/registry/src/index.crates.io-6f17d22bba15001f/widestring-0.4.3/src/ustring.rs:
